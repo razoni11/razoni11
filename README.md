@@ -8,7 +8,7 @@ Sou estudante do curso **Técnico em Informática para Internet** e estou focado
 - 💻 Atualmente focado em aprofundar em [Node.js / React / TypeScript].
 - ⚡ Curiosidade: Adoro resolver problemas de lógica e otimizar funções no JS.
 
-<img src="https://media1.tenor.com/m/jtaF1IgwZB0AAAAC/daddyklaus-klaus.gif" width="150">
+<img src="https://media1.tenor.com/m/jtaF1IgwZB0AAAAC/daddyklaus-klaus.gif" width="400">
 
 ---
 
@@ -27,7 +27,7 @@ Sou estudante do curso **Técnico em Informática para Internet** e estou focado
 * **Métodos Modernos de Array:** `.map()`, `.filter()`, `.reduce()`.
 * **Consumo de APIs:** `Fetch API`, `async/await`.
 
-<img src="https://media1.tenor.com/m/Yf4gOlDJJVkAAAAC/klaus-niklaus-mikaelson.gif" width="150">
+<img src="https://media1.tenor.com/m/Yf4gOlDJJVkAAAAC/klaus-niklaus-mikaelson.gif" width="300">
 
 ---
 
@@ -36,7 +36,7 @@ Sou estudante do curso **Técnico em Informática para Internet** e estou focado
 ### 1. [Nome do Projeto 1](link)
 * **O que usei:** JavaScript Vanilla, DOM, LocalStorage.
 
-<img src="https://media1.tenor.com/m/YQnnJnNjOK4AAAAC/klaus-mikaelson-the-originals.gif" width="150">
+<img src="https://media1.tenor.com/m/YQnnJnNjOK4AAAAC/klaus-mikaelson-the-originals.gif" width="250">
 
 ---
 
@@ -46,14 +46,14 @@ Sou estudante do curso **Técnico em Informática para Internet** e estou focado
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=gotham" />
 </p>
 
-<img src="https://media.tenor.com/8Et_gzR2jwIAAAAM/klaus-mikaelson-smiling-face.gif" width="150">
+<img src="https://media.tenor.com/8Et_gzR2jwIAAAAM/klaus-mikaelson-smiling-face.gif" width="350">
 
 ---
 
 ## ✨ Mood & Inspiration
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/kkZ63mHsjVwAAAAC/terrariuh-klaus.gif" width="200">
+  <img src="https://media1.tenor.com/m/kkZ63mHsjVwAAAAC/terrariuh-klaus.gif" width="400">
 </p>
 
 ## 📫 Vamos nos conectar?
