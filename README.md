@@ -58,7 +58,7 @@ Para o desenvolvimento de aplicações web robustas no lado do cliente, já apli
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZHZ1YmR4eHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6YVbDvD72ZLb2/giphy.gif" width="45%" alt="Klaus Mikaelson Face" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYwbmt4N3A2YTR4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/8TzX7yH2oR6F7T/giphy.gif" width="45%" alt="Taylor Swift Face" />
+  <https://media1.tenor.com/m/kkZ63mHsjVwAAAAC/terrariuh-klaus.gif />
 </p>
 
 ---
