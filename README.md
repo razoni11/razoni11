@@ -56,10 +56,7 @@ Para o desenvolvimento de aplicações web robustas no lado do cliente, já apli
 
 ## ✨ Mood & Inspiration
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZHZ1YmR4eHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6YVbDvD72ZLb2/giphy.gif" width="45%" alt="Klaus Mikaelson Face" />
-  <https://media1.tenor.com/m/kkZ63mHsjVwAAAAC/terrariuh-klaus.gif />
-</p>
+<div class="tenor-gif-embed" data-postid="10540247073451445596" data-share-method="host" data-aspect-ratio="1.67114" data-width="100%"><a href="https://tenor.com/view/terrariuh-klaus-klaus-mikaelson-shh-gif-10540247073451445596">Terrariuh Klaus GIF</a>from <a href="https://tenor.com/search/terrariuh-gifs">Terrariuh GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
